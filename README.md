@@ -1,4 +1,4 @@
-# FnProbe
+# FinProbe
 📘 FinProbe – Smart Loan Advisor Bot
 FinProbe is an AI-powered loan comparison bot built using Botpress, designed to help users find the best loan options with the lowest interest rates in a clear, simple, and step-by-step manner.
 
